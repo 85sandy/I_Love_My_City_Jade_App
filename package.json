@@ -1,0 +1,18 @@
+{
+  "name": "ilovemycity-jade",
+  "version": "1.0.0",
+  "description": "i love my city built using jade template engine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ilovemycityjade"
+  ],
+  "author": "Sandhya K J",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jade": "^1.11.0"
+  }
+}
